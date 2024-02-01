@@ -39,5 +39,10 @@ Implement an API endpoint in the Flask application to receive text inputs and re
 
 
 
+The model exactly predicted the label 'ft' for the text Lebensmittel kommssionierung
+The solution is achieved through dockerization of RESTAPI
 
-![Screenshot (230)](https://github.com/alishaantony/AliAnt268/assets/36256101/5c6e10d8-1d7d-4166-911b-e12ce7c7d372)
+
+
+![S1](https://github.com/alishaantony/AliAnt268/assets/36256101/34d33895-2d9b-48e2-8e49-c569ee4b9be1)
+
