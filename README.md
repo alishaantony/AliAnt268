@@ -46,3 +46,10 @@ The solution is achieved through dockerization of RESTAPI
 
 ![S1](https://github.com/alishaantony/AliAnt268/assets/36256101/34d33895-2d9b-48e2-8e49-c569ee4b9be1)
 
+Steps to execute:
+
+1. Run the pip3 freeze > requirements.txt
+2. Run the command docker build -t text-classifier1 .
+The above commands will help to build the image in docker
+3. Now open command prompt and run the command docker run -it -p 5000:5000 text-classifier1
+4. Run make_request.py in other terminal
